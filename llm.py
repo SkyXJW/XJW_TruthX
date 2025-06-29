@@ -31,7 +31,7 @@ A:"""
 
 PRIMER = """Q: {}
 A:"""
-
+jalsk
 
 class llm:
     def __init__(self, args):
